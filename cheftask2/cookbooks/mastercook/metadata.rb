@@ -1,6 +1,6 @@
 name 'mastercook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Raghavendra'
+maintainer_email 'ambati.raghavareddy@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures mastercook'
 version '0.1.0'

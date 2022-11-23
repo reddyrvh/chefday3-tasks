@@ -1,6 +1,6 @@
 name 'task1'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Raghavendra'
+maintainer_email 'ambati.raghavareddy@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures task1'
 version '0.1.0'
